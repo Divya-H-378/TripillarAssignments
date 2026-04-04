@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d118ee8-4a85-4f52-bb91-3c35688ce30a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assignments/module2/ConditionalsAndLoops/EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/module2/ConditionalsAndLoops/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/module2/ConditionalsAndLoops/LargestOfThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/module2/ConditionalsAndLoops/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/module2/ConditionalsAndLoops/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/module2/ConditionalsAndLoops/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/module2/ConditionalsAndLoops/Print1to100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/module2/ConditionalsAndLoops/StarPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/module3/BasicMethodsandoop/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/module3/BasicMethodsandoop/CalculatorClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/module3/BasicMethodsandoop/ConstructorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/module3/BasicMethodsandoop/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/module3/BasicMethodsandoop/PositiveNegativeZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/module3/BasicMethodsandoop/SquareMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/module3/BasicMethodsandoop/StudentClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,56 +24,103 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="3Aa9COEj7DvyR8nHM41c4Vzbbwf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AgeExceptionExample.executor": "Run",
-    "Application.ArithmeticExceptionExample.executor": "Run",
-    "Application.BankAccount.executor": "Run",
-    "Application.Car (1).executor": "Run",
-    "Application.Car.executor": "Run",
-    "Application.Circle.executor": "Run",
-    "Application.CustomExceptionExample.executor": "Run",
-    "Application.FinalClassExample.executor": "Run",
-    "Application.FinalVariableExample.executor": "Run",
-    "Application.GarbageCollectionExample.executor": "Run",
-    "Application.LifeCycleThread.executor": "Run",
-    "Application.MyRunnable.executor": "Run",
-    "Application.MyThread.executor": "Run",
-    "Application.PrintNumbers.executor": "Run",
-    "Application.StaticBlockExample.executor": "Run",
-    "Application.StaticExample.executor": "Run",
-    "Application.StringBuilderExample.executor": "Run",
-    "Application.StringImmutable.executor": "Run",
-    "Application.StringTypesExample.executor": "Run",
-    "Application.SynchronizationCounter.executor": "Run",
-    "Application.ThrowsExample.executor": "Run",
-    "Application.TryCatchFinallyExample.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USER/Desktop/JAVA/TripillarAssignments/src/assignments/module3/BasicMethodsandoop"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AgeExceptionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArithmeticExceptionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BSTDelete.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BSTInsert.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BalancedParentheses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Car (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharFrequency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomExceptionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalClassExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalVariableExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GarbageCollectionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InorderTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestSmallest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LifeCycleThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maze.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyRunnable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NQueens.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerofTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PreorderTraversal (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.PreorderTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintNto1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrinterQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueueDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceSpaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetBits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticBlockExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilderExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringImmutable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringTypesExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Subsets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SynchronizationCounter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThrowsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TraverseGraph.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatchFinallyExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VowelConsonent.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop/JAVA/TripillarAssignments/src/assignments/module3/BasicMethodsandoop&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\USER\Desktop\JAVA\TripillarAssignments\src\assignments\module3\BasicMethodsandoop" />
       <recent name="C:\Users\USER\Desktop\JAVA\TripillarAssignments\src\assignments\module2\ConditionalsAndLoops" />
       <recent name="C:\Users\USER\Desktop\JAVA\TripillarAssignments\src\assignments\module1\BasicsAndOperators" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="assignments.module12.TreesAndBinaryTrees" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.BankAccount">
-    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.module3.BasicMethodsandoop.BankAccount" />
+  <component name="RunManager" selected="Application.BSTInsert">
+    <configuration name="BSTDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.module13.BinarySearchTree.BSTDelete" />
       <module name="TripillarAssignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignments.module3.BasicMethodsandoop.*" />
+          <option name="PATTERN" value="assignments.module13.BinarySearchTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LifeCycleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.module5.ExceptionHandlingAndMultithreading.LifeCycleThread" />
+    <configuration name="BSTInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.module13.BinarySearchTree.BSTInsert" />
       <module name="TripillarAssignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignments.module5.ExceptionHandlingAndMultithreading.*" />
+          <option name="PATTERN" value="assignments.module13.BinarySearchTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.module5.ExceptionHandlingAndMultithreading.MyRunnable" />
+    <configuration name="BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.module11.StackAndQueue.BalancedParentheses" />
       <module name="TripillarAssignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignments.module5.ExceptionHandlingAndMultithreading.*" />
+          <option name="PATTERN" value="assignments.module11.StackAndQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.module5.ExceptionHandlingAndMultithreading.PrintNumbers" />
+    <configuration name="InorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.module12.TreesAndBinaryTrees.InorderTraversal" />
       <module name="TripillarAssignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignments.module5.ExceptionHandlingAndMultithreading.*" />
+          <option name="PATTERN" value="assignments.module12.TreesAndBinaryTrees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizationCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.module5.ExceptionHandlingAndMultithreading.SynchronizationCounter" />
+    <configuration name="TraverseGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.module14.graphs.TraverseGraph" />
       <module name="TripillarAssignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignments.module5.ExceptionHandlingAndMultithreading.*" />
+          <option name="PATTERN" value="assignments.module14.graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BankAccount" />
-        <item itemvalue="Application.PrintNumbers" />
-        <item itemvalue="Application.LifeCycleThread" />
-        <item itemvalue="Application.SynchronizationCounter" />
-        <item itemvalue="Application.MyRunnable" />
+        <item itemvalue="Application.BSTInsert" />
+        <item itemvalue="Application.InorderTraversal" />
+        <item itemvalue="Application.BSTDelete" />
+        <item itemvalue="Application.BalancedParentheses" />
+        <item itemvalue="Application.TraverseGraph" />
       </list>
     </recent_temporary>
   </component>
