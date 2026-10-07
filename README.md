@@ -1,124 +1,78 @@
-# Java DSA Training
+# Tripillar Assignments
 
-A structured Java learning and practice repository developed during **Java DSE (Data Structures and Essentials) training**, covering Java fundamentals, object-oriented programming, exception handling, collections, data structures, algorithms, and other core programming concepts through topic-wise examples and implementations.
+A collection of Java programming assignments covering **core Java, object-oriented programming, data structures, algorithms, problem-solving, and advanced Java concepts**. The repository contains topic-wise implementations and coding exercises organized into multiple modules.
 
 ## Topics Covered
 
-### Basic Java
+### Core Java & Programming Fundamentals
 
-The Basic section covers fundamental Java programming concepts through individual examples and practice programs.
-
-- Data Types
-- Variables and Operators
-- Unary Operators
-- Bitwise Operators
+- Basics and Operators
 - Conditional Statements
-- Looping Statements
+- Loops
+- Methods
+- Object-Oriented Programming
+- Exception Handling
+- Multithreading
 - Arrays
 - Strings
-- Methods
-- Patterns
-- Object-Oriented Programming (OOP)
-- Static Keyword
-- Final Keyword
-- Exception Handling
-- Garbage Collection
-- Threads
-- Transient Keyword
-- Core Java Programming
 
-### Advanced Java Concepts
+### Data Structures & Algorithms
 
-The Advanced section focuses on **Collections, Data Structures, and Algorithms**.
+- Searching and Sorting
+- Time and Space Complexity
+- Coding Patterns
+- Recursion
+- Backtracking
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Binary Trees
+- Binary Search Trees
+- Graphs
 
-#### Java Collections
+### Advanced Concepts
 
-- List
-- Queue
-- Set
-- Map
-- Collection Framework Basics
-
-#### Data Structures & Algorithms
-
-- Fundamental Data Structures
-- Algorithm Implementations
-- Problem-Solving Practice
-- Basic Algorithmic Techniques
+- Hashing
+- Bit Manipulation
+- Java Collections
+- Advanced Java Concepts
 
 ## Repository Structure
 
 ```text
-Java-DSE-Training/
+TripillarAssignments/
 │
-├── Basic/
-│   ├── Arrays/
-│   ├── Strings/
-│   ├── OOPS/
-│   ├── Methods/
-│   ├── LoopingStatements/
-│   ├── ConditionalStatements/
-│   ├── Threads/
-│   ├── Exception/
-│   ├── GarbageCollection/
-│   ├── StaticKeyword/
-│   ├── FinalKeyword/
-│   ├── Patterns/
-│   ├── BitwiseOperators/
-│   ├── TransientExample/
-│   ├── Datatypes.java
-│   ├── Main.java
-│   └── UnaryOperators.java
-│
-└── Advanced/
-    ├── Collections/
-    │   ├── List/
-    │   ├── Queue/
-    │   ├── Set/
-    │   ├── Map/
-    │   └── Base/
-    │
-    └── DSA/
-        ├── Algorithms/
-        └── DataStructures/
+└── src/
+    └── assignments/
+        ├── module1/BasicsAndOperators
+        ├── module2/ConditionalsAndLoops
+        ├── module3/BasicMethodsAndOOP
+        ├── module5/ExceptionHandlingAndMultithreading
+        ├── module6/ArraysAndCodingPatterns
+        ├── module7/SearchingSortingAndComplexity
+        ├── module8/StringsHashingBitManipulationAndCollections
+        ├── module9/RecursionAndBacktracking
+        ├── module10/LinkedList
+        ├── module11/StackAndQueue
+        ├── module12/TreesAndBinaryTrees
+        ├── module13/BinarySearchTree
+        ├── module14/Graphs
+        └── module14/AdvancedJavaConcepts
 ```
 
-## Key Learning Areas
+## What I Practiced
 
-### Object-Oriented Programming
-
-Practiced core OOP concepts including:
-
-- Classes and Objects
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
-
-### Exception Handling
-
-Worked with Java exception-handling mechanisms to understand how errors can be handled effectively within applications.
-
-### Multithreading
-
-Explored Java threads and the fundamentals of concurrent program execution.
-
-### Collections
-
-Practiced commonly used Java Collection Framework interfaces and structures such as:
-
-- `List`
-- `Queue`
-- `Set`
-- `Map`
-
-### Data Structures & Algorithms
-
-Practiced fundamental data structures and algorithms to strengthen programming logic and problem-solving skills.
+- Implemented Java programs covering fundamental programming concepts.
+- Practiced **OOP principles** and exception handling.
+- Implemented and worked with fundamental **data structures**.
+- Practiced **searching, sorting, recursion, and backtracking** techniques.
+- Worked on **problem-solving patterns** and algorithmic complexity.
+- Implemented operations involving **strings, hashing, bit manipulation, and collections**.
+- Practiced tree, binary search tree, linked list, stack, queue, and graph-based problems.
 
 ## Technologies Used
 
 - **Language:** Java
-- **Core Concepts:** OOP, Collections, Exception Handling, Multithreading
-- **DSA:** Data Structures and Algorithms
-- **Development Environment:** Java IDE / JDK
+- **Concepts:** Core Java, OOP, DSA, Algorithms, Collections
+- **IDE:** IntelliJ IDEA
