@@ -1,4 +1,4 @@
-# Java DSE Training
+# Java DSA Training
 
 A structured Java learning and practice repository developed during **Java DSE (Data Structures and Essentials) training**, covering Java fundamentals, object-oriented programming, exception handling, collections, data structures, algorithms, and other core programming concepts through topic-wise examples and implementations.
 
